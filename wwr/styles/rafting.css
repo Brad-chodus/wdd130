@@ -1,6 +1,6 @@
 :root {
     --primary-color: #023047;
-    /* --secondary-color: #023047; */
+    --secondary-color: #023047;
     --accent1-color: #0b567e;
     --accent2-color: #ffb703;
     --heading-font: "Fondamento", sans-serif;
@@ -128,6 +128,7 @@ section {
 
 section h2 {
     margin-bottom: 10px;
+    color: var(--secondary-color);
 }
 
 section .history {
